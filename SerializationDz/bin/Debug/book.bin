@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Cena>0</Cena>
+    <Name>Как стать успешным</Name>
+    <Price>204</Price>
+    <Author>Леха</Author>
+    <Year>1998</Year>
+  </Book>
+  <Book>
+    <Cena>0</Cena>
+    <Name>Рыцарское правоведение</Name>
+    <Price>4581</Price>
+    <Author>Джереми</Author>
+    <Year>1998</Year>
+  </Book>
+  <Book>
+    <Cena>0</Cena>
+    <Name>Тактика ведения боя</Name>
+    <Price>2516</Price>
+    <Author>Брунгильда</Author>
+    <Year>2011</Year>
+  </Book>
+  <Book>
+    <Cena>0</Cena>
+    <Name>Исскуство ниндзя</Name>
+    <Price>1270</Price>
+    <Author>Амахаши</Author>
+    <Year>2014</Year>
+  </Book>
+  <Book>
+    <Cena>0</Cena>
+    <Name>Как возродиться в другом мире</Name>
+    <Price>2852</Price>
+    <Author>Рудэус</Author>
+    <Year>2002</Year>
+  </Book>
+</ArrayOfBook>

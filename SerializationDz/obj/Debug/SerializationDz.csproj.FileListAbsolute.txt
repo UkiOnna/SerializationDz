@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\SerializationDz\SerializationDz\bin\Debug\SerializationDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\SerializationDz\SerializationDz\bin\Debug\SerializationDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\SerializationDz\SerializationDz\bin\Debug\SerializationDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\SerializationDz\SerializationDz\obj\Debug\SerializationDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\SerializationDz\SerializationDz\obj\Debug\SerializationDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\SerializationDz\SerializationDz\obj\Debug\SerializationDz.pdb
